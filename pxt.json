@@ -10,6 +10,7 @@
     "files": [
         "README.md",
         "bc95.ts",
+        "bc95.cpp",
         "_locales/pxt-microbit-bc95-jsdoc-strings.json",
         "_locales/pxt-microbit-bc95-strings.json"
     ],
