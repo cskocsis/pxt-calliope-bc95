@@ -5,13 +5,13 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "pxt-calliope-modem": "*"
+        "pxt-microbit-modem": "*"
     },
     "files": [
         "README.md",
         "bc95.ts",
-        "_locales/de/pxt-calliope-bc95-jsdoc-strings.json",
-        "_locales/de/pxt-calliope-bc95-strings.json"
+        "_locales/pxt-microbit-bc95-jsdoc-strings.json",
+        "_locales/pxt-microbit-bc95-strings.json"
     ],
     "testFiles": [
         "tests.ts"
